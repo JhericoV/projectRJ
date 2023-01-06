@@ -150,22 +150,22 @@ body{
 
 /* Responsive */
 @media (max-width: 1200px){
-    .contrainer {
+    .container {
         transform: scale(0.7)
     }
 }
 @media (max-width: 1000px){
-    .contrainer {
+    .container {
         transform: scale(0.6)
     }
 }
 @media (max-width: 800px){
-    .contrainer {
+    .container {
         transform: scale(0.5)
     }
 }
 @media (max-width: 600px){
-    .contrainer {
+    .container {
         transform: scale(0.4)
     }
 }
